@@ -28,7 +28,7 @@ Computer engineer with 5 years of software development experience in the industr
     
     * Tools: `windows` `visual-studio-code` `slack` `jira`
 
-* [Helmes](https://www.helmes.com/), 2016 → 2019, 2 years and 10 months: *Telecommunication*
+* [Helmes](https://www.helmes.com/), 2016 → 2018, 2 years and 10 months: *Telecommunication*
     
     * Tech stack: `asp.net-mvc` `C#` `angularjs` `javascript` `yarn` `bootstrap` `rest` `iis-express` `sql-server` `ssms` `teamcity` `octopus` `bitbucket` `tortoisegit` `git`
     
