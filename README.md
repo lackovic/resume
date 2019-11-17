@@ -5,7 +5,7 @@
 ## Resume
 
 * Last update 17-Nov-2019
-* [Download the latest version in PDF](https://github.com/lackovic/marco-lackovic-resume.pdf)
+* [Download the latest version in PDF](https://github.com/lackovic/resume/raw/master/marco-lackovic-resume.pdf)
 
 ## Bio
 
