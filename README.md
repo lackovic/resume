@@ -22,35 +22,27 @@ Computer engineer with 5 years of software development experience in the industr
 
 ### Full stack developer
 
-* [GrabCAD](https://grabcad.com/): 2018 → present, 1 year
+* [GrabCAD](https://grabcad.com/), 2018 → present, 1 year: *3D printing*
+    
+    * Tech stack: `node.js` `npm` `typescript` `reactjs` `semantic-ui` `graphql` `apollo` `typeorm` `postgresql-10` `express` `git` `github` `docker` `kubernetes` `teamcity` `markdown`
+    
+    * Tools: `windows` `visual-studio-code` `slack` `jira`
 
-    Domain: 3D printing
+* [Helmes](https://www.helmes.com/), 2016 → 2019, 2 years and 10 months: *Telecommunication*
     
-    Tech stack: `node.js` `npm` `typescript` `reactjs` `semantic-ui` `graphql` `apollo` `typeorm` `postgresql-10` `express` `git` `github` `docker` `kubernetes` `teamcity` `markdown`
+    * Tech stack: `asp.net-mvc` `C#` `angularjs` `javascript` `yarn` `bootstrap` `rest` `iis-express` `sql-server` `ssms` `teamcity` `octopus` `bitbucket` `tortoisegit` `git`
     
-    Tools: `windows` `visual-studio-code` `slack` `jira`
+    * Tools: `windows` `visual-studio-2015` `visual-studio-2017` `rider` `slack` `jira` `confluence` `postman`
 
-* [Helmes](https://www.helmes.com/): 2016 → 2019, 2 years and 10 months
-
-    Domain: Telecommunication
+* [Helmes](https://www.helmes.com/), 2015, 10 months: *Healthcare*
     
-    Tech stack: `asp.net-mvc` `C#` `angularjs` `javascript` `yarn` `bootstrap` `rest` `iis-express` `sql-server` `ssms` `teamcity` `octopus` `bitbucket` `tortoisegit` `git`
+    * Tech stack: `webforms` `C#` `soap` `javascript` `bootstrap` `telerik` `sql-server` `ssms`
     
-    Tools: `windows` `visual-studio-2015` `visual-studio-2017` `rider` `slack` `jira` `confluence` `postman`
-
-* [Helmes](https://www.helmes.com/): 2015, 10 months
-
-    Domain: Healthcare
-    
-    Tech stack: `webforms` `C#` `soap` `javascript` `bootstrap` `telerik` `sql-server` `ssms`
-    
-    Tools: `windows` `visual-studio-2008` `visual-studio-2012`
+    * Tools: `windows` `visual-studio-2008` `visual-studio-2012`
 
 ### Research fellow
 
-* [UNICAL](http://www.unicaladmission.it/): 2011 → 2015, 4 years
-
-    Domain: Distributed Data Mining, Grid Computing
+* [UNICAL](http://www.unicaladmission.it/), 2011 → 2015, 4 years: *Distributed Data Mining*, *Grid Computing*
     
     Tech stack: `java` `globus-toolkit` `soap` `web-services` `latex`
     
@@ -58,9 +50,7 @@ Computer engineer with 5 years of software development experience in the industr
 
 ### Teaching assistant
 
-* [UNICAL](http://www.unicaladmission.it/): 2007 → 2015, 8 years
-
-    Domain: Object Oriented Programming, Multi-Threading Programming
+* [UNICAL](http://www.unicaladmission.it/), 2007 → 2015, 8 years: *Object Oriented Programming*, *Multi-Threading Programming*
     
     Tech stack: `java` `c++`
     
