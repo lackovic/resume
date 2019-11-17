@@ -44,17 +44,17 @@ Computer engineer with 5 years of software development experience in the industr
 
 * [UNICAL](http://www.unicaladmission.it/), 2011 → 2015, 4 years: *Distributed Data Mining*, *Grid Computing*
     
-    Tech stack: `java` `globus-toolkit` `soap` `web-services` `latex`
+    * Tech stack: `java` `globus-toolkit` `soap` `web-services` `latex`
     
-    Tools: `linux` `eclipse`
+    * Tools: `linux` `eclipse`
 
 ### Teaching assistant
 
 * [UNICAL](http://www.unicaladmission.it/), 2007 → 2015, 8 years: *Object Oriented Programming*, *Multi-Threading Programming*
     
-    Tech stack: `java` `c++`
+    * Tech stack: `java` `c++`
     
-    Tools: `linux` `eclipse` `libreoffice`
+    * Tools: `linux` `eclipse` `libreoffice`
 
 ## Education
 
