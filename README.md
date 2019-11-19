@@ -4,7 +4,7 @@
 
 ## Resume
 
-* Last update 18-Nov-2019
+* Last update 19-Nov-2019
 * [Download the latest version in PDF](https://github.com/lackovic/resume/raw/master/marco-lackovic-resume.pdf)
 
 ## Bio
@@ -24,21 +24,21 @@ Computer engineer with 5 years of software development experience in the industr
 
 * [GrabCAD](https://grabcad.com/), 2018 → present, 1 year: *3D printing order management*
     
-    * Tech stack: `node.js` `npm` `typescript` `reactjs` `semantic-ui` `graphql` `apollo` `typeorm` `postgresql-10` `express` `git` `github` `docker` `kubernetes` `teamcity` `markdown`
+    * Tech stack: `node.js` `npm` `typescript` `reactjs` `semantic-ui` `graphql` `apollo` `typeorm` `postgresql-10` `express` `git` `github` `docker` `kubernetes` `markdown`
     
-    * Tools: `windows` `visual-studio-code` `slack` `jira`
+    * Tools: `windows` `visual-studio-code` `teamcity` `slack` `jira`
 
 * [Helmes](https://www.helmes.com/), 2016 → 2018, 2 years and 10 months: *Mobile phone repair management*
     
-    * Tech stack: `asp.net-mvc` `C#` `angularjs` `javascript` `yarn` `bootstrap` `rest` `iis-express` `sql-server` `ssms` `teamcity` `octopus` `bitbucket` `tortoisegit` `git`
+    * Tech stack: `asp.net-mvc` `C#` `angularjs` `javascript` `yarn` `bootstrap` `rest` `iis-express` `sql-server` `bitbucket` `git`
     
-    * Tools: `windows` `visual-studio-2015` `visual-studio-2017` `rider` `slack` `jira` `confluence` `postman`
+    * Tools: `windows` `visual-studio-2015` `visual-studio-2017` `rider` `octopus` `postman` `slack` `jira` `confluence` `ssms` `tortoisegit`
 
 * [Helmes](https://www.helmes.com/), 2015, 10 months: *Healthcare*
     
-    * Tech stack: `webforms` `C#` `soap` `javascript` `bootstrap` `telerik` `sql-server` `ssms`
+    * Tech stack: `webforms` `C#` `soap` `javascript` `bootstrap` `telerik` `sql-server`
     
-    * Tools: `windows` `visual-studio-2008` `visual-studio-2012`
+    * Tools: `windows` `visual-studio-2008` `visual-studio-2012` `ssms`
 
 ### Research fellow
 
