@@ -4,7 +4,7 @@
 
 ## Resume
 
-* Last update 19-Nov-2019
+* Last update 6-Dec-2019
 * [Download the latest version in PDF](https://github.com/lackovic/resume/raw/master/marco-lackovic-resume.pdf)
 
 ## Bio
@@ -14,7 +14,7 @@ Computer engineer with 5 years of software development experience in the industr
 ### Languages
 
 * Italian: native speaker
-* English: fluent (C1)
+* English: fluent
 * Estonian: intermediate (B1)
 * Croatian: elementary
 
@@ -22,11 +22,17 @@ Computer engineer with 5 years of software development experience in the industr
 
 ### Full stack developer
 
-* [GrabCAD](https://grabcad.com/), 2018 → present, 1 year: *3D printing order management*
+* [GrabCAD](https://grabcad.com/), 2019 → present: *3D modeling community management*
+    
+    * Tech stack: `ruby-on-rails` `angularjs` `vuejs2` `elasticsearch` `arel` `postgresql-10` `git` `github` `docker` `markdown`
+    
+    * Tools: `windows` `wsl` `visual-studio-code` `tortoisegit` `jenkins` `slack` `jira` 
+
+* [GrabCAD](https://grabcad.com/), 2018 → 2019, 1 year: *3D printing order management*
     
     * Tech stack: `node.js` `npm` `typescript` `reactjs` `semantic-ui` `graphql` `apollo` `typeorm` `postgresql-10` `express` `git` `github` `docker` `kubernetes` `markdown`
     
-    * Tools: `windows` `visual-studio-code` `teamcity` `slack` `jira`
+    * Tools: `windows` `visual-studio-code` `tortoisegit` `teamcity` `slack` `jira`
 
 * [Helmes](https://www.helmes.com/), 2016 → 2018, 2 years and 10 months: *Mobile phone repair management*
     
