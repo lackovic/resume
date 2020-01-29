@@ -9,7 +9,7 @@
 
 ## Bio
 
-Computer engineer with 5 years of software development experience in the industry, 7 years in the academia as research fellow and teaching assistant. EESTEC alumni. Born and raised in Italy, relocated to Estonia in March 2015.
+Software engineer with 5 years of software development experience in the industry, 7 years in the academia as research fellow and teaching assistant. EESTEC alumni. Born and raised in Italy, relocated to Estonia in 2015.
 
 ### Languages
 
