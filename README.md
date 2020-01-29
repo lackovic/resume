@@ -26,7 +26,7 @@ Software engineer with 5 years of software development experience in the industr
     
     * Tech stack: `ruby-on-rails`, `angularjs`, `vuejs2`, `elasticsearch`, `arel`, `postgresql-10`, `git`, `github`, `docker`, `markdown`
     
-    * Tools: `windows`, `wsl`, `visual-studio-code`, `tortoisegit`, `jenkins`, `slack`, `jira` 
+    * Tools: `windows`, `wsl`, `rubymine`, `visual-studio-code`, `tortoisegit`, `jenkins`, `slack`, `jira` 
 
 * [GrabCAD](https://grabcad.com/), 2018 → 2019, 1 year: *3D printing order management*
     
