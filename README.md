@@ -4,7 +4,7 @@
 
 ## Resume
 
-* Last update 6-Dec-2019
+* Last update 29-Jan-2020
 * [Download the latest version in PDF](https://github.com/lackovic/resume/raw/master/marco-lackovic-resume.pdf)
 
 ## Bio
@@ -24,43 +24,43 @@ Computer engineer with 5 years of software development experience in the industr
 
 * [GrabCAD](https://grabcad.com/), 2019 → present: *3D modeling community management*
     
-    * Tech stack: `ruby-on-rails` `angularjs` `vuejs2` `elasticsearch` `arel` `postgresql-10` `git` `github` `docker` `markdown`
+    * Tech stack: `ruby-on-rails`, `angularjs`, `vuejs2`, `elasticsearch`, `arel`, `postgresql-10`, `git`, `github`, `docker`, `markdown`
     
-    * Tools: `windows` `wsl` `visual-studio-code` `tortoisegit` `jenkins` `slack` `jira` 
+    * Tools: `windows`, `wsl`, `visual-studio-code`, `tortoisegit`, `jenkins`, `slack`, `jira` 
 
 * [GrabCAD](https://grabcad.com/), 2018 → 2019, 1 year: *3D printing order management*
     
-    * Tech stack: `node.js` `npm` `typescript` `reactjs` `semantic-ui` `graphql` `apollo` `typeorm` `postgresql-10` `express` `git` `github` `docker` `kubernetes` `markdown`
+    * Tech stack: `node.js`, `npm`, `typescript`, `reactjs`, `semantic-ui`, `graphql`, `apollo`, `typeorm`, `postgresql-10`, `express`, `git`, `github`, `docker`, `kubernetes`, `markdown`
     
-    * Tools: `windows` `visual-studio-code` `tortoisegit` `teamcity` `slack` `jira`
+    * Tools: `windows`, `visual-studio-code`, `tortoisegit`, `teamcity`, `slack`, `jira`
 
 * [Helmes](https://www.helmes.com/), 2016 → 2018, 2 years and 10 months: *Mobile phone repair management*
     
-    * Tech stack: `asp.net-mvc` `C#` `angularjs` `javascript` `yarn` `bootstrap` `rest` `iis-express` `sql-server` `bitbucket` `git`
+    * Tech stack: `asp.net-mvc`, `C#`, `angularjs`, `javascript`, `yarn`, `bootstrap`, `rest`, `iis-express`, `sql-server`, `bitbucket`, `git`
     
-    * Tools: `windows` `visual-studio-2015` `visual-studio-2017` `rider` `octopus` `postman` `slack` `jira` `confluence` `ssms` `tortoisegit`
+    * Tools: `windows`, `visual-studio-2015`, `visual-studio-2017`, `rider`, `octopus`, `postman`, `slack`, `jira`, `confluence`, `ssms`, `tortoisegit`
 
 * [Helmes](https://www.helmes.com/), 2015, 10 months: *Healthcare*
     
-    * Tech stack: `webforms` `C#` `soap` `javascript` `bootstrap` `telerik` `sql-server`
+    * Tech stack: `webforms`, `C#`, `soap`, `javascript`, `bootstrap`, `telerik`, `sql-server`
     
-    * Tools: `windows` `visual-studio-2008` `visual-studio-2012` `ssms`
+    * Tools: `windows`, `visual-studio-2008`, `visual-studio-2012`, `ssms`
 
 ### Research fellow
 
 * [UNICAL](http://www.unicaladmission.it/), 2011 → 2015, 4 years: *Distributed Data Mining*, *Grid Computing*
     
-    * Tech stack: `java` `globus-toolkit` `soap` `web-services` `latex`
+    * Tech stack: `java`, `globus-toolkit`, `soap`, `web-services`, `latex`
     
-    * Tools: `linux` `eclipse`
+    * Tools: `linux`, `eclipse`
 
 ### Teaching assistant
 
 * [UNICAL](http://www.unicaladmission.it/), 2007 → 2015, 8 years: *Object Oriented Programming*, *Multi-Threading Programming*
     
-    * Tech stack: `java` `c++`
+    * Tech stack: `java`, `c++`
     
-    * Tools: `linux` `eclipse` `libreoffice`
+    * Tools: `linux`, `eclipse`, `libreoffice`
 
 ## Education
 
