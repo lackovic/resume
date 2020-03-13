@@ -4,7 +4,7 @@
 
 ## Resume
 
-* Last update 29-Jan-2020
+* Last update 13-Mar-2020
 * [Download the latest version in PDF](https://github.com/lackovic/resume/raw/master/marco-lackovic-resume.pdf)
 
 ## Bio
@@ -24,7 +24,7 @@ Software engineer with 5 years of software development experience in the industr
 
 * [GrabCAD](https://grabcad.com/), 2019 → present: *3D modeling community management*
     
-    * Tech stack: `ruby-on-rails`, `angularjs`, `vuejs2`, `elasticsearch`, `arel`, `postgresql-10`, `git`, `github`, `docker`, `markdown`
+    * Tech stack: `ruby-on-rails`, `sidekiq`, `redis`, `vuejs2`, `angularjs`, `elasticsearch`, `postgresql-10`, `git`, `github`, `docker`, `markdown`
     
     * Tools: `windows`, `wsl`, `rubymine`, `visual-studio-code`, `tortoisegit`, `jenkins`, `slack`, `jira` 
 
