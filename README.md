@@ -4,7 +4,7 @@
 
 ## Resume
 
-* Last update 13-Mar-2020
+* Last update 15-May-2020
 * [Download the latest version in PDF](https://github.com/lackovic/resume/raw/master/marco-lackovic-resume.pdf)
 
 ## Bio
@@ -24,13 +24,13 @@ Software engineer with 5 years of software development experience in the industr
 
 * [GrabCAD](https://grabcad.com/), 2019 → present: *3D modeling community management*
     
-    * Tech stack: `ruby-on-rails`, `sidekiq`, `redis`, `vuejs2`, `angularjs`, `elasticsearch`, `postgresql-10`, `git`, `github`, `docker`, `markdown`
+    * Tech stack: `ruby`, `rails`, `rspec`, `sidekiq`, `redis`, `vuejs2`, `angularjs`, `elasticsearch`, `postgresql-10`, `git`, `github`, `docker`, `markdown`
     
     * Tools: `windows`, `wsl`, `rubymine`, `visual-studio-code`, `tortoisegit`, `jenkins`, `slack`, `jira` 
 
 * [GrabCAD](https://grabcad.com/), 2018 → 2019, 1 year: *3D printing order management*
     
-    * Tech stack: `node.js`, `npm`, `typescript`, `reactjs`, `semantic-ui`, `graphql`, `apollo`, `typeorm`, `postgresql-10`, `express`, `git`, `github`, `docker`, `kubernetes`, `markdown`
+    * Tech stack: `node.js`, `npm`, `typescript`, `reactjs`, `semantic-ui`, `graphql`, `jest`, `enzyme`, `apollo`, `typeorm`, `postgresql-10`, `express`, `git`, `github`, `docker`, `kubernetes`, `markdown`
     
     * Tools: `windows`, `visual-studio-code`, `tortoisegit`, `teamcity`, `slack`, `jira`
 
