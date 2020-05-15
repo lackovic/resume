@@ -22,25 +22,41 @@ Software engineer with 5 years of software development experience in the industr
 
 ### Full stack developer
 
-* [GrabCAD](https://grabcad.com/), 2019 → present: *3D modeling community management*
+* [GrabCAD](https://grabcad.com/), 2019 → present
+
+    * Domain: *3D modeling community management*
+
+    * User base: millions - world
     
     * Tech stack: `ruby`, `rails`, `rspec`, `sidekiq`, `redis`, `vuejs2`, `angularjs`, `elasticsearch`, `postgresql-10`, `git`, `github`, `docker`, `markdown`
     
     * Tools: `windows`, `wsl`, `rubymine`, `visual-studio-code`, `tortoisegit`, `jenkins`, `slack`, `jira` 
 
-* [GrabCAD](https://grabcad.com/), 2018 → 2019, 1 year: *3D printing order management*
+* [GrabCAD](https://grabcad.com/), 2018 → 2019, 1 year
+    
+    * Domain: *3D printing order management*
+
+    * User base: hundreds - world
     
     * Tech stack: `node.js`, `npm`, `typescript`, `reactjs`, `semantic-ui`, `graphql`, `jest`, `enzyme`, `apollo`, `typeorm`, `postgresql-10`, `express`, `git`, `github`, `docker`, `kubernetes`, `markdown`
     
     * Tools: `windows`, `visual-studio-code`, `tortoisegit`, `teamcity`, `slack`, `jira`
 
-* [Helmes](https://www.helmes.com/), 2016 → 2018, 2 years and 10 months: *Mobile phone repair management*
+* [Helmes](https://www.helmes.com/), 2016 → 2018, 2 years and 10 months
+    
+    * Domain: *Mobile phone repair management*
+
+    * User base: thousands - Northern Europe
     
     * Tech stack: `asp.net-mvc`, `C#`, `angularjs`, `javascript`, `yarn`, `bootstrap`, `rest`, `iis-express`, `sql-server`, `bitbucket`, `git`
     
     * Tools: `windows`, `visual-studio-2015`, `visual-studio-2017`, `rider`, `octopus`, `postman`, `slack`, `jira`, `confluence`, `ssms`, `tortoisegit`
 
-* [Helmes](https://www.helmes.com/), 2015, 10 months: *Healthcare*
+* [Helmes](https://www.helmes.com/), 2015, 10 months
+    
+    * Domain: *Healthcare*
+
+    * User base: hundreds - Estonia
     
     * Tech stack: `webforms`, `C#`, `soap`, `javascript`, `bootstrap`, `telerik`, `sql-server`
     
