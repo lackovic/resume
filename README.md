@@ -4,7 +4,7 @@
 
 ## Resume
 
-* Last update 15-May-2020
+* Last update 15-Jul-2020
 * [Download the latest version in PDF](https://github.com/lackovic/resume/raw/master/marco-lackovic-resume.pdf)
 
 ## Bio
@@ -22,7 +22,17 @@ Software engineer with 5 years of software development experience in the industr
 
 ### Full stack developer
 
-* [GrabCAD](https://grabcad.com/), 2019 → present
+* [Concise](https://concise.ee/), 2020 → present
+
+    * Domain: *Parking platform*
+
+    * User base: millions - world
+    
+    * Tech stack: `java`, `spring-boot`, `git`, `bitbucket`, `docker`, `markdown`
+    
+    * Tools: `windows`, `wsl-2`, `archlinux`, `intellij-idea`, `visual-studio-code`, `teamcity`, `slack`, `jira` 
+
+* [GrabCAD](https://grabcad.com/), 2019 → 2020, 7 months
 
     * Domain: *3D modeling community management*
 
