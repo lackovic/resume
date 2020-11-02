@@ -4,7 +4,7 @@
 
 ## Resume
 
-* Last update 15-Jul-2020
+* Last update 02-Nov-2020
 * [Download the latest version in PDF](https://github.com/lackovic/resume/raw/master/marco-lackovic-resume.pdf)
 
 ## Bio
@@ -28,9 +28,9 @@ Software engineer with 5 years of software development experience in the industr
 
     * User base: millions - world
     
-    * Tech stack: `java`, `spring-boot`, `git`, `bitbucket`, `docker`, `markdown`
+    * Tech stack: `java`, `javascript`, `spring-boot`, `junit`, `spock`, `gwen`, `groovy`, `gradle`, `maven`, `node.js`, `npm`, `mocha`, `docker`, `postgresql`, `git`, `markdown`
     
-    * Tools: `windows`, `wsl-2`, `archlinux`, `intellij-idea`, `visual-studio-code`, `teamcity`, `slack`, `jira` 
+    * Tools: `windows`, `wsl-2`, `archlinux`, `ubuntu`, `intellij-idea`, `visual-studio-code`, `teamcity`, `slack`, `jira`, `bitbucket`
 
 * [GrabCAD](https://grabcad.com/), 2019 → 2020, 7 months
 
@@ -38,9 +38,9 @@ Software engineer with 5 years of software development experience in the industr
 
     * User base: millions - world
     
-    * Tech stack: `ruby`, `rails`, `rspec`, `sidekiq`, `redis`, `vuejs2`, `angularjs`, `elasticsearch`, `postgresql-10`, `git`, `github`, `docker`, `markdown`
+    * Tech stack: `ruby`, `javascript`, `rails`, `rspec`, `sidekiq`, `redis`, `vuejs2`, `angularjs`, `elasticsearch`, `rest`, `postgresql-10`, `git`, `docker`, `markdown`
     
-    * Tools: `windows`, `wsl`, `rubymine`, `visual-studio-code`, `tortoisegit`, `jenkins`, `slack`, `jira` 
+    * Tools: `windows`, `wsl`, `rubymine`, `visual-studio-code`, `tortoisegit`, `jenkins`, `slack`, `jira`, `github`
 
 * [GrabCAD](https://grabcad.com/), 2018 → 2019, 1 year
     
@@ -48,9 +48,9 @@ Software engineer with 5 years of software development experience in the industr
 
     * User base: hundreds - world
     
-    * Tech stack: `node.js`, `npm`, `typescript`, `reactjs`, `semantic-ui`, `graphql`, `jest`, `enzyme`, `apollo`, `typeorm`, `postgresql-10`, `express`, `git`, `github`, `docker`, `kubernetes`, `markdown`
+    * Tech stack: `typescript`, `graphql`, `node.js`, `npm`, `reactjs`, `semantic-ui`, `jest`, `enzyme`, `apollo`, `typeorm`, `postgresql-10`, `express`, `git`, `docker`, `kubernetes`, `markdown`
     
-    * Tools: `windows`, `visual-studio-code`, `tortoisegit`, `teamcity`, `slack`, `jira`
+    * Tools: `windows`, `visual-studio-code`, `tortoisegit`, `teamcity`, `slack`, `jira`, `github`
 
 * [Helmes](https://www.helmes.com/), 2016 → 2018, 2 years and 10 months
     
@@ -58,9 +58,9 @@ Software engineer with 5 years of software development experience in the industr
 
     * User base: thousands - Northern Europe
     
-    * Tech stack: `asp.net-mvc`, `C#`, `angularjs`, `javascript`, `yarn`, `bootstrap`, `rest`, `iis-express`, `sql-server`, `bitbucket`, `git`
+    * Tech stack: `C#`, `javascript`, `asp.net-mvc`, `angularjs`, `yarn`, `bootstrap`, `rest`, `iis-express`, `sql-server`, `git`
     
-    * Tools: `windows`, `visual-studio-2015`, `visual-studio-2017`, `rider`, `octopus`, `postman`, `slack`, `jira`, `confluence`, `ssms`, `tortoisegit`
+    * Tools: `windows`, `visual-studio-2015`, `visual-studio-2017`, `rider`, `octopus`, `postman`, `slack`, `jira`, `confluence`, `ssms`, `tortoisegit`, `bitbucket`
 
 * [Helmes](https://www.helmes.com/), 2015, 10 months
     
@@ -68,7 +68,7 @@ Software engineer with 5 years of software development experience in the industr
 
     * User base: hundreds - Estonia
     
-    * Tech stack: `webforms`, `C#`, `soap`, `javascript`, `bootstrap`, `telerik`, `sql-server`
+    * Tech stack: `C#`, `javascript`, `webforms`, `soap`, `bootstrap`, `telerik`, `sql-server`
     
     * Tools: `windows`, `visual-studio-2008`, `visual-studio-2012`, `ssms`
 
