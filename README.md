@@ -4,7 +4,7 @@
 
 ## Resume
 
-* Last update 02-Nov-2020
+* Last update 08-Dec-2020
 * [Download the latest version in PDF](https://github.com/lackovic/resume/raw/master/marco-lackovic-resume.pdf)
 
 ## Bio
@@ -28,7 +28,7 @@ Software engineer with 5 years of software development experience in the industr
 
     * User base: millions - world
     
-    * Tech stack: `java`, `javascript`, `spring-boot`, `junit`, `spock`, `gwen`, `groovy`, `gradle`, `maven`, `node.js`, `npm`, `mocha`, `docker`, `postgresql`, `git`, `markdown`
+    * Tech stack: `java`, `javascript`, `spring-boot`, `junit`, `spock`, `gwen`, `groovy`, `gradle`, `maven`, `flyway`, `node.js`, `npm`, `mocha`, `docker`, `postgresql`, `git`, `markdown`
     
     * Tools: `windows`, `wsl-2`, `archlinux`, `ubuntu`, `intellij-idea`, `visual-studio-code`, `teamcity`, `slack`, `jira`, `bitbucket`
 
