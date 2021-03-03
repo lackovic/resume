@@ -4,12 +4,12 @@
 
 ## Resume
 
-* Last update 05-Feb-2021
+* Last update 03-Mar-2021
 * [Download the latest version in PDF](https://github.com/lackovic/resume/raw/master/marco-lackovic-resume.pdf)
 
 ## Bio
 
-Software engineer with 5 years of software development experience in the industry, 7 years in the academia as research fellow and teaching assistant. EESTEC alumni. Born and raised in Italy, relocated to Estonia in 2015.
+Software engineer with 6 years of software development experience in the industry, 7 years in the academia as research fellow and teaching assistant. EESTEC alumni. Born and raised in Italy, relocated to Estonia in 2015.
 
 ### Languages
 
@@ -28,7 +28,7 @@ Software engineer with 5 years of software development experience in the industr
 
     * User base: millions - world
     
-    * Tech stack: `java`, `javascript`, `spring-boot`, `spring-data-jdbc`, `hibernate`, `lombok`, `junit`, `spock`, `gwen`, `groovy`, `gradle`, `maven`, `flyway`, `node.js`, `npm`, `mocha`, `docker`, `postgresql`, `git`, `markdown`
+    * Tech stack: `java`, `javascript`, `spring-boot`, `spring-data-jdbc`, `spring-mvc`, `spring-webflux`, `hibernate`, `lombok`, `junit`, `spock`, `gwen`, `groovy`, `gradle`, `maven`, `flyway`, `node.js`, `npm`, `mocha`, `docker`, `postgresql`, `git`, `markdown`
     
     * Tools: `windows`, `wsl-2`, `archlinux`, `ubuntu`, `intellij-idea`, `visual-studio-code`, `teamcity`, `slack`, `jira`, `bitbucket`
 
