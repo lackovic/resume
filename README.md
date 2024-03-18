@@ -74,7 +74,7 @@ Software engineer with 9 years of software development experience in the industr
 
 ### Research fellow
 
-* [UNICAL](http://www.unicaladmission.it/), 2011 → 2015, 4 years: *Distributed Data Mining*, *Grid Computing*
+* [UNICAL](http://www.unical.it/), 2011 → 2015, 4 years: *Distributed Data Mining*, *Grid Computing*
     
     * Tech stack: `java`, `globus-toolkit`, `soap`, `web-services`, `latex`
     
@@ -82,7 +82,7 @@ Software engineer with 9 years of software development experience in the industr
 
 ### Teaching assistant
 
-* [UNICAL](http://www.unicaladmission.it/), 2007 → 2015, 8 years: *Object Oriented Programming*, *Multi-Threading Programming*
+* [UNICAL](http://www.unical.it/), 2007 → 2015, 8 years: *Object Oriented Programming*, *Multi-Threading Programming*
     
     * Tech stack: `java`, `c++`
     
@@ -90,9 +90,9 @@ Software engineer with 9 years of software development experience in the industr
 
 ## Education
 
-* [UNICAL](http://www.unicaladmission.it/) 2011: PhD in Computer Engineering
+* [UNICAL](http://www.unical.it/) 2011: PhD in Computer Engineering
 
-* [UNICAL](http://www.unicaladmission.it/) 2007: Master in Computer Engineering
+* [UNICAL](http://www.unical.it/) 2007: Master in Computer Engineering
 
 ## Links
 
