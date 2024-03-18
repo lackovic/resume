@@ -4,12 +4,12 @@
 
 ## Resume
 
-* Last update 21-Aug-2021
+* Last update 18-Mar-2024
 * [Download the latest version in PDF](https://github.com/lackovic/resume/raw/master/marco-lackovic-resume.pdf)
 
 ## Bio
 
-Software engineer with 6 years of software development experience in the industry, 7 years in the academia as research fellow and teaching assistant. EESTEC alumni. Born and raised in Italy, relocated to Estonia in 2015.
+Software engineer with 9 years of software development experience in the industry, 7 years in the academia as research fellow and teaching assistant. EESTEC alumni. Born and raised in Italy, relocated to Estonia in 2015.
 
 ### Languages
 
